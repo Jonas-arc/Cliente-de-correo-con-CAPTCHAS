@@ -20,5 +20,9 @@ de este entorno gráfico.
   1. $ jhbuild build pygobject
   2. $ jhbuild build gtk+
   3. $ jhbuild shell
-9. Por último se instala la biblioteca PIL para python con el siguiente comando.
-  1. $ pip install PIL
+9. Después se instala la biblioteca PIL para python con el siguiente comando.
+1. $ pip install PIL
+10. Por último de tienen que crear las siguientes en la raiz del proyecto.
+  1. Usuarios
+  2. CAPTCHAS
+  3. logs
