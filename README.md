@@ -21,7 +21,7 @@ de este entorno gráfico.
   2. $ jhbuild build gtk+
   3. $ jhbuild shell
 9. Después se instala la biblioteca PIL para python con el siguiente comando.
-1. $ pip install PIL
+  1. $ pip install PIL
 10. Por último de tienen que crear las siguientes en la raiz del proyecto.
   1. Usuarios
   2. CAPTCHAS
